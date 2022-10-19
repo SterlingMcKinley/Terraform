@@ -1,3 +1,4 @@
+#Followed a tutorial to create this architecture
 terraform {
   required_providers {
     aws = {
