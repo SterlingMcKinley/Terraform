@@ -1,5 +1,5 @@
 # ======================================================================
-# SCRIPT NAME: main.tf (file will be rename to main.tf when applied)
+# CONFIGURATION FILE NAME: main.tf (file will be rename to main.tf when applied)
 # Description: Terraform declarative file to configure an S3 bucket
 #
 # REVISION HISTORY: N/A
